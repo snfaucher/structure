@@ -1,0 +1,2 @@
+# structure
+Javascript componentization library
